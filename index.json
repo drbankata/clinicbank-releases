@@ -1,0 +1,61 @@
+{
+  "product": "clinicbank",
+  "published": "2026-11-11",
+  "entries": [
+    {
+      "edition": "cloud-server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Clinicbank-Cloud-Server-Windows-1.0.0.bankupdate",
+      "sha256": "c07a4e572f4f79fa765e469e5c853aa5d3352b3fc5c0df68d199a8fd69a10c1f",
+      "size": 14606818,
+      "built": "2026-11-11",
+      "notes": "First official release of Clinicbank."
+    },
+    {
+      "edition": "cloud",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Clinicbank-Cloud-Windows-1.0.0.bankupdate",
+      "sha256": "f1f76b98a30951349ac617094c52b03210ae9f13f647f57be879ce162cf125b9",
+      "size": 14582431,
+      "built": "2026-11-11",
+      "notes": "First official release of Clinicbank."
+    },
+    {
+      "edition": "connected-server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Clinicbank-Connected-Windows-1.0.0.bankupdate",
+      "sha256": "36f67330cfc00acafbcc3bf485db7f75069d1533014ec8d82fd875b5c7bd3236",
+      "size": 14626942,
+      "built": "2026-11-11",
+      "notes": "First official release of Clinicbank."
+    },
+    {
+      "edition": "server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Clinicbank-Server-Windows-1.0.0.bankupdate",
+      "sha256": "8deef5aa2b0b9190a3399133435f3774ed943006dc9698c5c6024fb37de40650",
+      "size": 14561797,
+      "built": "2026-11-11",
+      "notes": "First official release of Clinicbank."
+    },
+    {
+      "edition": "offline",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Clinicbank-Windows-1.0.0.bankupdate",
+      "sha256": "52dfb0876173a5f0b91010e159db1c932315c3da7c621f852f9c0cb3b1243a7d",
+      "size": 14498053,
+      "built": "2026-11-11",
+      "notes": "First official release of Clinicbank."
+    }
+  ]
+}
