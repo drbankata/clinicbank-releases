@@ -1,6 +1,6 @@
 {
   "product": "clinicbank",
-  "published": "2026-11-11",
+  "published": "2026-11-21",
   "entries": [
     {
       "edition": "cloud-server",
@@ -8,10 +8,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Cloud-Server-Windows-1.0.0.bankupdate",
-      "sha256": "c07a4e572f4f79fa765e469e5c853aa5d3352b3fc5c0df68d199a8fd69a10c1f",
-      "size": 14606818,
-      "built": "2026-11-11",
-      "notes": "First official release of Clinicbank."
+      "sha256": "f6f837e806547b37c7525b506a06892caa353ac659cac918f7a069cd91c563fd",
+      "size": 14626329,
+      "built": "2026-11-21",
+      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
     },
     {
       "edition": "cloud",
@@ -19,10 +19,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Cloud-Windows-1.0.0.bankupdate",
-      "sha256": "f1f76b98a30951349ac617094c52b03210ae9f13f647f57be879ce162cf125b9",
-      "size": 14582431,
-      "built": "2026-11-11",
-      "notes": "First official release of Clinicbank."
+      "sha256": "0ebdd65ca5f882b15da41ea9d40668c1f296ca3e461cd6639080c0e4711dd969",
+      "size": 14599933,
+      "built": "2026-11-21",
+      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
     },
     {
       "edition": "connected-server",
@@ -30,10 +30,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Connected-Windows-1.0.0.bankupdate",
-      "sha256": "36f67330cfc00acafbcc3bf485db7f75069d1533014ec8d82fd875b5c7bd3236",
-      "size": 14626942,
-      "built": "2026-11-11",
-      "notes": "First official release of Clinicbank."
+      "sha256": "bd97f3d493e423423bf269b4a9933ba965acbfac0c720e535968a8ccaf8ef429",
+      "size": 14653307,
+      "built": "2026-11-21",
+      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
     },
     {
       "edition": "server",
@@ -41,10 +41,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Server-Windows-1.0.0.bankupdate",
-      "sha256": "8deef5aa2b0b9190a3399133435f3774ed943006dc9698c5c6024fb37de40650",
-      "size": 14561797,
-      "built": "2026-11-11",
-      "notes": "First official release of Clinicbank."
+      "sha256": "84f7b9c37f034bbfeffa3b0bc332c71b317081beaa8acf29f3c3634f55f6a013",
+      "size": 14544989,
+      "built": "2026-11-21",
+      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
     },
     {
       "edition": "offline",
@@ -52,10 +52,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Windows-1.0.0.bankupdate",
-      "sha256": "52dfb0876173a5f0b91010e159db1c932315c3da7c621f852f9c0cb3b1243a7d",
-      "size": 14498053,
-      "built": "2026-11-11",
-      "notes": "First official release of Clinicbank."
+      "sha256": "94a54d858d69f21e8ce757e30cbbec9b146c7b7d8ef130a3712324da071bddd3",
+      "size": 14519481,
+      "built": "2026-11-21",
+      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
     }
   ]
 }
