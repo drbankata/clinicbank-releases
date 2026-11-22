@@ -1,6 +1,6 @@
 {
   "product": "clinicbank",
-  "published": "2026-11-21",
+  "published": "2026-11-22",
   "entries": [
     {
       "edition": "cloud-server",
@@ -8,10 +8,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Cloud-Server-Windows-1.0.0.bankupdate",
-      "sha256": "f6f837e806547b37c7525b506a06892caa353ac659cac918f7a069cd91c563fd",
-      "size": 14626329,
-      "built": "2026-11-21",
-      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
+      "sha256": "5050e5aa4e3bede43406f1d2f83bcb4325524ee1e9e746fbe6869404be484ec4",
+      "size": 14713738,
+      "built": "2026-11-22",
+      "notes": "1.0.0 re-issued: the Typist, attach and type a consultation's documents, and every clinic document printed with or without letterhead, saved as PDF and sent by WhatsApp or e-mail from any computer."
     },
     {
       "edition": "cloud",
@@ -19,10 +19,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Cloud-Windows-1.0.0.bankupdate",
-      "sha256": "0ebdd65ca5f882b15da41ea9d40668c1f296ca3e461cd6639080c0e4711dd969",
-      "size": 14599933,
-      "built": "2026-11-21",
-      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
+      "sha256": "cafd0a6c18c19a0b3a438771326d7e627adaac2b9284edcd1761581b2c6bf42b",
+      "size": 14682629,
+      "built": "2026-11-22",
+      "notes": "1.0.0 re-issued: the Typist, attach and type a consultation's documents, and every clinic document printed with or without letterhead, saved as PDF and sent by WhatsApp or e-mail from any computer."
     },
     {
       "edition": "connected-server",
@@ -30,10 +30,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Connected-Windows-1.0.0.bankupdate",
-      "sha256": "bd97f3d493e423423bf269b4a9933ba965acbfac0c720e535968a8ccaf8ef429",
-      "size": 14653307,
-      "built": "2026-11-21",
-      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
+      "sha256": "6c882e3399202f573ea572868ba28767a86468074225fe570cc60eebdb6b1287",
+      "size": 14731326,
+      "built": "2026-11-22",
+      "notes": "1.0.0 re-issued: the Typist, attach and type a consultation's documents, and every clinic document printed with or without letterhead, saved as PDF and sent by WhatsApp or e-mail from any computer."
     },
     {
       "edition": "server",
@@ -41,10 +41,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Server-Windows-1.0.0.bankupdate",
-      "sha256": "84f7b9c37f034bbfeffa3b0bc332c71b317081beaa8acf29f3c3634f55f6a013",
-      "size": 14544989,
-      "built": "2026-11-21",
-      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
+      "sha256": "eeb1ea7c3f68bba03ca8e741bef3d44a2d56402faa79ab264df61b7fec7a9d3c",
+      "size": 14662339,
+      "built": "2026-11-22",
+      "notes": "1.0.0 re-issued: the Typist, attach and type a consultation's documents, and every clinic document printed with or without letterhead, saved as PDF and sent by WhatsApp or e-mail from any computer."
     },
     {
       "edition": "offline",
@@ -52,10 +52,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Clinicbank-Windows-1.0.0.bankupdate",
-      "sha256": "94a54d858d69f21e8ce757e30cbbec9b146c7b7d8ef130a3712324da071bddd3",
-      "size": 14519481,
-      "built": "2026-11-21",
-      "notes": "Clinicbank 1.0.0 re-issued: every page says clinic, Windows no longer asks about the firewall, a patient's handwritten pages follow them to every visit, and an Indian brand medicine list can be imported (no doses)."
+      "sha256": "8590fc2aeb15c5ad8dc543bfa3c1eeb5442e5c0410f4adcdd7daef96260c7168",
+      "size": 14625920,
+      "built": "2026-11-22",
+      "notes": "1.0.0 re-issued: the Typist, attach and type a consultation's documents, and every clinic document printed with or without letterhead, saved as PDF and sent by WhatsApp or e-mail from any computer."
     }
   ]
 }
